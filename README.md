@@ -5,7 +5,8 @@
 ### 🛡️ Cyber Security Student | 🔍 Future SOC Analyst | 🎨 Graphic Designer
 
 <img src="https://blog.sucuri.net/wp-content/uploads/2016/10/sucuri-sucuriheader-hello-defense.gif" alt="Hello Defense" width="80%" />
-
+<img src="https://blog.sucuri.net/wp-content/uploads/2016/10/sucuri-sucuriheader-hello-defense.gif" alt="Hello Defense" width="60%"/> <br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Npdm55M3g0Ym95bWNjdWxpN3pxcmF6ZXE4bHhjdDRhYndscHZjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nruU/giphy.gif" alt="SOC Analyst Working" width="40%"/><br>
 <br>
 
 🔥 Learning Security Operations Center (SOC) & Incident Response
