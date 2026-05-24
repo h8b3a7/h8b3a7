@@ -1,12 +1,21 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Cyber Security Professional" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="SOC Workspace" width="40%"/><br> 
+#  Hagar Basem
+
+### 🛡️ Cyber Security Student | 🔍 Future SOC Analyst | 🎨 Graphic Designer
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/Animate-cybersecurity.gif" alt="Cyber Security Analysis" width="50%" />
 
 <br>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%230078D4&title_bg=%23555555&icon=shield.svg&icon_color=%23E7E7E7&title=SECURITY_HITS&edge_flat=false)
+🔥 Learning Security Operations Center (SOC) & Incident Response
+💻 Building Security Labs, configuring Linux, and coding in C++
+🚀 Passionate about Cyber Defense, Networking, and Digital Forensics
+
+<br>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=h8b3a7&style=flat&color=blue&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh8b3a7&count_bg=%230078D4&title_bg=%23555555&icon=shield.svg&icon_color=%23E7E7E7&title=SECURITY_HITS&edge_flat=false)
 </div>
 
 <hr></hr>
