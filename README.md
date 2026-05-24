@@ -1,10 +1,10 @@
 <div align="center">
 
-#  Hagar Basem
+# Hagar Bassem
 
 ### 🛡️ Cyber Security Student | 🔍 Future SOC Analyst | 🎨 Graphic Designer
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/Animate-cybersecurity.gif" alt="Cyber Security Analysis" width="50%" />
+<img src="https://blog.sucuri.net/wp-content/uploads/2016/10/sucuri-sucuriheader-hello-defense.gif" alt="Hello Defense" width="80%" />
 
 <br>
 
