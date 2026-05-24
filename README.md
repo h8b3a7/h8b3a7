@@ -4,10 +4,7 @@
 
 ### 🛡️ Cyber Security Student | 🔍 Future SOC Analyst | 🎨 Graphic Designer
 
-<img src="https://blog.sucuri.net/wp-content/uploads/2016/10/sucuri-sucuriheader-hello-defense.gif" alt="Hello Defense" width="80%" />
-<img src="https://blog.sucuri.net/wp-content/uploads/2016/10/sucuri-sucuriheader-hello-defense.gif" alt="Hello Defense" width="60%"/> <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Npdm55M3g0Ym95bWNjdWxpN3pxcmF6ZXE4bHhjdDRhYndscHZjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nruU/giphy.gif" alt="SOC Analyst Working" width="40%"/><br>
-<br>
+
 
 🔥 Learning Security Operations Center (SOC) & Incident Response
 💻 Building Security Labs, configuring Linux, and coding in C++
@@ -16,7 +13,7 @@
 <br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=h8b3a7&style=flat&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh8b3a7&count_bg=%230078D4&title_bg=%23555555&icon=shield.svg&icon_color=%23E7E7E7&title=SECURITY_HITS&edge_flat=false)
+
 </div>
 
 <hr></hr>
